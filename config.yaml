@@ -1,0 +1,24 @@
+terminal:
+  searchOptions: {}
+  colorScheme:
+    name: Termius Dark (matched final)
+    foreground: '#43a047'
+    background: '#0A1428'
+    cursor: '#80deea'
+    colors:
+      - '#060B17'
+      - '#FF5F5F'
+      - '#5CFF9D'
+      - '#FFC857'
+      - '#4FA3FF'
+      - '#FF7AD9'
+      - '#2e7d32'
+      - '#B7C9D6'
+      - '#2F3B55'
+      - '#FF8A80'
+      - '#fb8c00'
+      - '#FFE08A'
+      - '#7AB8FF'
+      - '#FFA1E6'
+      - '#6FFFE0'
+      - '#E2EEFF'
